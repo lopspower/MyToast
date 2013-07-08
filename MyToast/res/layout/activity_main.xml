@@ -1,0 +1,20 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/Gray"
+    android:gravity="center|bottom"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/btnShowToast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="50dp"
+        android:background="@drawable/button_selector"
+        android:text="Show Toast"
+        android:textColor="@color/White"
+        android:textSize="14sp"
+        tools:ignore="HardcodedText" />
+
+</LinearLayout>
