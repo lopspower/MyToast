@@ -78,3 +78,8 @@ public class MyToast {
     }
 }
 ```
+
+License
+-----
+
+MyToast by [Lopez Mikhael](http://mikhaellopez.com/) is licensed under a [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).
